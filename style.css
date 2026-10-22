@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h2 {
+    color: navy;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+#result {
+    color: darkgreen;
+}
